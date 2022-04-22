@@ -43,6 +43,7 @@ body{
    
 }
 #tribute-info{
+    font-size: 18px;
    width: 50%;
    margin-left: auto;
    margin-right: auto;
@@ -53,6 +54,7 @@ li{
 
 .writer{
     margin-top: 20px;
+    display: block;
 }
 p.footer{
     text-align:center ;
